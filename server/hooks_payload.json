@@ -1,0 +1,15 @@
+{
+   "hookInstance": "0gBp09HIuSNPiwnx5Vz3K0yp9Vc7AXToJvwoOOkthlbpsXdKhOcvqt9Kv0YOBNZ4",
+   "fhirServer": "http://localhost:4000/4_0_0",
+   "hook": "document donation hook",
+   "fhirAuthorization":{
+      "access_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjBjMDEyM2I3YmI1YzUyMzAxMTFmYTYwIiwiaWF0IjoxNjI0NTkzMDU5LCJleHAiOjE2NTU2OTcwNTksImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjMwMDAiLCJpc3MiOiJzYW1zdW5nIG1lZGljYWwgY2VudGVyIiwic3ViIjoiYWRtaW5Ac21jLmNvbSJ9.SihEUtd139bvRuJ3aKI4sQ9O3BOp7huPHqeGjq0gK7XsRqQwbl5ZhfyJh7C9TdP2tzLsqOCvaMN8YByhRq6Cn4t3qgeWlDh3pR4u8-gyoHKXdWU1nO_X9Tf9OCddbLCH0nE4retZpgmzCGWNU-8g6jj95tw22zViqB6jQYdisyc",
+      "token_type": "Bearer",
+      "expire_in": 60,
+      "scope": "Bundle.read",
+      "subject": "cds-service4"
+   },
+  "context": {
+      "userID": "113610"
+   }
+}
